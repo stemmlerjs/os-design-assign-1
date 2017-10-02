@@ -1,0 +1,49 @@
+
+## Run 1
+- Using order k = 3, we see the 4 armstrong numbers.
+
+C:\Assignment 1\Part 1> armstrong.exe
+
+============================
+      ARMSTRONGS NUMBER
+============================
+
+Enter the Armstrong Order value [k]: 3
+
+Enter the lower bound interval [p]: 10
+
+Enter the upper bound interval [q]: 500
+
+Found an Armstrong Number: [153]
+Found an Armstrong Number: [370]
+Found an Armstrong Number: [371]
+Found an Armstrong Number: [407]
+
+C:\Assignment 1\Part 1> armstrong.exe
+
+
+## Run 3
+- Using order k = 1, we see the 9 armstrong numbers.
+
+C:\Assignment 1\Part 1> armstrong.exe
+
+
+============================
+      ARMSTRONGS NUMBER
+============================
+
+Enter the Armstrong Order value [k]: 1
+
+Enter the lower bound interval [p]: 1
+
+Enter the upper bound interval [q]: 50
+
+Found an Armstrong Number: [1]
+Found an Armstrong Number: [2]
+Found an Armstrong Number: [3]
+Found an Armstrong Number: [4]
+Found an Armstrong Number: [5]
+Found an Armstrong Number: [6]
+Found an Armstrong Number: [7]
+Found an Armstrong Number: [8]
+Found an Armstrong Number: [9]

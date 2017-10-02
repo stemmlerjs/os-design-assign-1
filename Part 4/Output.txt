@@ -1,0 +1,22 @@
+
+
+## Run 1
+
+C:\Users\Khalil\Documents\Sheridan - Final Year\SYST44288 - Operating Systems Design And Systems Programming\Assignment 1\Assignment 1\Part 4>
+
+rmstr.exe helloman hello
+Result 'man'
+
+## Run 2
+
+C:\Users\Khalil\Documents\Sheridan - Final Year\SYST44288 - Operating Systems Design And Systems Programming\Assignment 1\Assignment 1\Part 4>
+
+rmstr.exe helloman man
+Result 'hello'
+
+## Run 3
+
+C:\Users\Khalil\Documents\Sheridan - Final Year\SYST44288 - Operating Systems Design And Systems Programming\Assignment 1\Assignment 1\Part 4>
+
+rmstr.exe hellomanmanyoman man
+Result 'helloyo'

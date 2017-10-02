@@ -1,0 +1,22 @@
+
+## Run 1
+
+C:\Assignment 1\Part 1> Eulers.exe
+
+Enter a sequence of integers: 1 4 5 7 8 10
+Eulers Phi of [1]: 1 is relatively prime
+Eulers Phi of [4]: [3] is relatively prime
+Eulers Phi of [5]: [2] is relatively prime
+Eulers Phi of [5]: [3] is relatively prime
+Eulers Phi of [5]: [4] is relatively prime
+Eulers Phi of [7]: [2] is relatively prime
+Eulers Phi of [7]: [3] is relatively prime
+Eulers Phi of [7]: [4] is relatively prime
+Eulers Phi of [7]: [5] is relatively prime
+Eulers Phi of [7]: [6] is relatively prime
+Eulers Phi of [8]: [3] is relatively prime
+Eulers Phi of [8]: [5] is relatively prime
+Eulers Phi of [8]: [7] is relatively prime
+Eulers Phi of [10]: [3] is relatively prime
+Eulers Phi of [10]: [7] is relatively prime
+Eulers Phi of [10]: [9] is relatively prime
